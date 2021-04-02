@@ -1,5 +1,5 @@
 {
-  "name": "npmdeploytest",
+  "name": "mikeoverbeck.npmdeploytest",
   "version": "0.1.0",
   "description": "testing npm deployment",
   "main": "index.js",
