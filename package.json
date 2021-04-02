@@ -1,0 +1,19 @@
+{
+  "name": "npmdeploytest",
+  "version": "0.1.0",
+  "description": "testing npm deployment",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MikeOverbeck/npmDeployTest.git"
+  },
+  "author": "Mike Overbeck <mikeoverbeck@gmail.com> (https://www.mikeoverbeck.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MikeOverbeck/npmDeployTest/issues"
+  },
+  "homepage": "https://github.com/MikeOverbeck/npmDeployTest#readme"
+}
